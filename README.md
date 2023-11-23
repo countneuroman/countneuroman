@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-My name Vadim Alekseev.
-
-- 🔭 I’m currently working C# Developer on [MTS Digital](https://mts-digital.ru/)
+- 🔭 I’m currently working on [MTS Digital](https://mts-digital.ru/)
 
 #### Social links
 
