@@ -4,12 +4,9 @@
 
 #### Social links
 
-<a href="https://countneuroman.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white" alt="Blog" />
-</a>
-
-[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CountNeuroman){:target="_blank"}
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/countneuroman/){:target="_blank"}
+[![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://countneuroman.github.io/)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CountNeuroman)
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/countneuroman/)
 
 #### Repository stats
 
