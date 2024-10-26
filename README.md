@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [MTS Digital](https://mts-digital.ru/)
-
 #### Social links
 
 [![Blog](https://img.shields.io/badge/blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://countneuroman.github.io/)
